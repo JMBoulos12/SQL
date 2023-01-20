@@ -4,4 +4,5 @@ A : DDL stands for Data Definition Language. DDL commands are used to manipulate
     database objects like database, table, views etc. In simple words DDL commands are used to
     create table, changing the structure of table or dropping the table. Example: CREATE, ALTER & DROP
     DML stands for Data Manipulation Language. DML commands are used to manipulate the
-    information stored in a table. Like adding new records,
+    information stored in a table. Like adding new records,changing existing records or deleting
+the records. Example: INSERT, UPDATE & DELETE
