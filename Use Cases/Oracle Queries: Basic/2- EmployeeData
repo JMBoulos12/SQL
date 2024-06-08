@@ -127,8 +127,8 @@ select first_name, last_name, job_id, 12*(salary+nvl(commission_pct,0)) as "Annu
 drop table employees;
 
 -- OUTPUT:
-| 	FIRST_NAME	 | 	LAST_NAME	 | 	JOB_ID	 | 	Annual Salary	 |
-| 	1	 | 	Donald	 | 	OConnell	 | 	SH_CLERK	 | 	31200	 |
+| FIRST_NAME | LAST_NAME | JOB_ID | Annual Salary |
+| 1 | Donald | OConnell | SH_CLERK | 31200 |
 | 	2	 | 	Douglas	 | 	Grant	 | 	SH_CLERK	 | 	31200	 |
 | 	3	 | 	Jennifer	 | 	Whalen	 | 	AD_ASST	 | 	52800	 |
 | 	4	 | 	Michael	 | 	Hartstein	 | 	MK_MAN	 | 	156000	 |
