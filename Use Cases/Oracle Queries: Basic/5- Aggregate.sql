@@ -129,7 +129,5 @@ select max(salary), min(salary) from employees;
 drop table employees;
 
 -- Output:
-
-| MAX(SALARY) | MIN(SALARY) |
-| :-----: | :-----: |
-| 24000 | 2100 |
+ MAX(SALARY)	MIN(SALARY)
+1	24000	2100
