@@ -130,6 +130,6 @@ drop table employees;
 
 -- Output:
 
-MAX(SALARY) | MIN(SALARY)
-:-----: | :-----:
-24000 | 2100
+| MAX(SALARY) | MIN(SALARY) |
+| :-----: | :-----: |
+| 24000 | 2100 |
