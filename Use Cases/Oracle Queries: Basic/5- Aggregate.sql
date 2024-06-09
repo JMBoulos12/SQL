@@ -1,5 +1,5 @@
 -- obtain the maximum and minimum salary from the employees table.
--- Construct an Oracle SQL query to obtain the maximum and minimum salary from the employees table .
+-- Construct an Oracle SQL query to obtain the maximum and minimum salary from the employees table.
 
 -- SOLUTION:
 CREATE TABLE employees (
